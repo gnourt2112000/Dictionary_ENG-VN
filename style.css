@@ -1,0 +1,21 @@
+window
+{
+background-color:paleturquoise;
+}
+button
+{
+border-image: none;
+background-image: none;
+background-color:seagreen;
+color:yellow;
+border-color:white;
+border-width:5px;
+
+}
+button:hover
+{
+border-image: none;
+background-image: none;
+background-color:springgreen;
+
+}
